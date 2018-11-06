@@ -15,10 +15,11 @@ p{
 	font-size:1.2em;	
 	padding:10px;
     font-style:italic;
+    
 }
 
 #container{
-
+	width:100%;
     background-size: cover;
     background-repeat: no-repeat;
 	
