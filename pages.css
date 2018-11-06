@@ -45,9 +45,9 @@ nav li{
 	display:inline;
 }
 nav a:link,a:visited{
-	font-weight:bold;
-	color:cornsilk;
-	background-color:black;
+	color:black;
+    font-weight:bold;
+    background-color:cadetblue;
 	padding:13px;
 	text-decoration:none;
 	text-transform:uppercase;
@@ -57,7 +57,7 @@ nav a:hover,a:active{
 }
 header h1{
 	font-size:4em;
-	padding-top:20px;
+	padding-top:13px;
 	text-align:center;
    
 }
