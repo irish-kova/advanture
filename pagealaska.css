@@ -1,0 +1,64 @@
+body{
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+		font-size:12px;
+		line-height: 1.5;
+      background-image: url(images/alaska1.jpg);
+   background-color:bisque;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:cursive,sans-serif;
+ 
+	}
+
+p{
+	margin-bottom:1.3em;
+	font-size:1.2em;	
+	padding:10px;
+    font-style:italic;
+}
+
+#container{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+	
+	
+}
+header{
+	display:inline-block;
+	width:100%;
+	background-color:antiquewhite;
+       opacity: 0.5;
+     font-style:italic
+}
+nav{
+	display:inline-block;
+	background-color:antiquewhite;
+	width:100%;
+	text-align:center;
+       opacity: 0.5;
+}
+nav ul{
+	list-style-type:none;
+
+}
+nav li{
+	display:inline;
+}
+nav a:link,a:visited{
+	font-weight:bold;
+	color:cornsilk;
+	background-color:black;
+	padding:13px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+nav a:hover,a:active{
+	background-color:#d5dee2;
+}
+header h1{
+	font-size:4em;
+	padding-top:20px;
+	text-align:center;
+   
+}
