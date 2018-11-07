@@ -2,12 +2,12 @@ body{
 		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
 		font-size:12px;
 		line-height: 1.5;
-   background-color:bisque;
-          background-image: url(images/alaska1.jpg);
-
+        background-image: url(images/alaska1.jpg);
+  font-family:cursive,sans-serif;
+    background-size: 2550px;
     background-size: cover;
     background-repeat: no-repeat;
-    font-family:cursive,sans-serif;
+ 
  
 	}
 p{
@@ -26,16 +26,16 @@ p{
 header{
 	display:inline-block;
 	width:100%;
-	background-color:antiquewhite;
+	background-color:cadetblue;
        opacity: 0.5;
      font-style:italic
 }
 nav{
 	display:inline-block;
-	background-color:antiquewhite;
+	background-color:cadetblue;
 	width:100%;
 	text-align:center;
-       opacity: 0.5;
+       opacity: 0.8;
 }
 nav ul{
 	list-style-type:none;
@@ -45,9 +45,9 @@ nav li{
 	display:inline;
 }
 nav a:link,a:visited{
-	font-weight:bold;
-	color:cornsilk;
-	background-color:black;
+	color:black;
+    font-weight:bold;
+    background-color:cadetblue;
 	padding:13px;
 	text-decoration:none;
 	text-transform:uppercase;
@@ -57,8 +57,7 @@ nav a:hover,a:active{
 }
 header h1{
 	font-size:4em;
-	padding-top:20px;
+	padding-top:13px;
 	text-align:center;
    
 }
-

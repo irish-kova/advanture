@@ -3,7 +3,6 @@ body{
 		font-size:12px;
 		line-height: 1.5;
    background-color:azure;
-
     background-size: 2550px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -39,6 +38,7 @@ nav{
 }
 nav ul{
 	list-style-type:none;
+    color:cadetblue;
 
 }
 nav li{
